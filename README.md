@@ -13,10 +13,10 @@
 # 💼 My knowledge :
 
 * Javascript
-ReactJS
-VueJS
-jQuery
-NodeJS
+`* ReactJS `
+`* VueJS `
+`* jQuery `
+`* NodeJS `
 * CSS
 Scss/Sass/Less
 Bootstrap
