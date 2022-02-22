@@ -17,18 +17,23 @@
   * VueJS
   * jQuery
   * NodeJS
+   
 * CSS
   * Scss/Sass/Less
   * Bootstrap
+  
 * C#
   * Winforms
   * .NET
+   
 * Databases
   * SQL
   * SQLite
   * MongoDB
+  
 * Lua
   * ESX Framework
+  
 *HTML
 *Python
 *PHP
