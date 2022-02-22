@@ -29,6 +29,6 @@
   * MongoDB
 * Lua
   * ESX Framework
-*HTML
-*Python
-*PHP
+* HTML
+* Python
+* PHP
