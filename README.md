@@ -13,7 +13,7 @@
 # 💼 My knowledge :
 
 * Javascript
-* ReactJS
+`*ReactJS`
 * VueJS
 * jQuery
 * NodeJS
