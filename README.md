@@ -13,22 +13,22 @@
 # 💼 My knowledge :
 
 * Javascript
-`*ReactJS`
-* VueJS
-* jQuery
-* NodeJS
+  * ReactJS
+  * VueJS
+  * jQuery
+  * NodeJS
 * CSS
-Scss/Sass/Less
-Bootstrap
+  * Scss/Sass/Less
+  * Bootstrap
 * C#
-Winforms
-.NET
+  * Winforms
+  * .NET
 * Databases
-SQL
-SQLite
-MongoDB
+  * SQL
+  * SQLite
+  * MongoDB
 * Lua
-ESX Framework
-HTML
-Python
-PHP
+  * ESX Framework
+*HTML
+*Python
+*PHP
