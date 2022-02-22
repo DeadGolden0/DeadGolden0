@@ -8,6 +8,8 @@
 
 # 💻 My repos :
 
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=github_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ----------------
 
 # 💼 My knowledge :
