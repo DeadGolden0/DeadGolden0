@@ -12,23 +12,26 @@
 
 # 💼 My knowledge :
 
+* HTML
+* CSS
+  * Scss/Sass/Less
+  * Bootstrap
 * Javascript
+  * Angular 
   * ReactJS
   * VueJS
   * jQuery
   * NodeJS
-* CSS
-  * Scss/Sass/Less
-  * Bootstrap
-* C#
-  * Winforms
-  * .NET
+* PHP
 * Databases
   * SQL
   * SQLite
   * MongoDB
+* C#
+  * Winforms
+  * .NET
+* C++
 * Lua
   * ESX Framework
-* HTML
+  * GLua
 * Python
-* PHP
