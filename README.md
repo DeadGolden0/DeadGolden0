@@ -4,13 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-----------------
 
 # 💻 My repos :
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=github_dark&repo=MaliceRP)](https://github.com/anuraghazra/github-readme-stats)
 
-----------------
 
 # 💼 My knowledge :
 
