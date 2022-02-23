@@ -27,33 +27,23 @@
 
 ---
 
-<details>
-  <summary>💻 My Best repos:</summary>
-  <br/>
-  [![website]][<img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" style="padding-bottom:10px;"/>]
-  
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=S-Box-HUD&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  <br/>
-  <br/>
-</details>
-
-<details>
-  <summary>📊 GitHub Stats:</summary>         
-  <br/>
-  
-  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7"/>
-  
-  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-
-</details>
-
-
-[website]: http://yannisbn.fr/
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YannisBnb&theme=react&border=61dafb&hide_border=true" alt="Dead Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YannisBnb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
