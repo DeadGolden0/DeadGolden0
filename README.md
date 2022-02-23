@@ -16,7 +16,7 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  
+  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" />
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
