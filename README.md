@@ -41,9 +41,9 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=adbac7&icon_color=61dafb&bg_color=22272e&langs_count=8&layout=compact&border_color=adbac7&hide_border=false" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=adbac7&text_color=adbac7&icon_color=61dafb&bg_color=22272e&langs_count=8&layout=compact&border_color=adbac7&hide_border=false" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=YannisBnb&bg_color=22272e&hide_border=false&border_color=adbac7&title_color=61dafb&text_color=adbac7" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YannisBnb&bg_color=22272e&hide_border=false&border_color=adbac7&title_color=adbac7&text_color=adbac7" width="100%"/>
 </p>
