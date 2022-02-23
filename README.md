@@ -28,22 +28,22 @@
 ---
 
 <details>
-  <summary>💻 My repos:</summary>
+  <summary>💻 My Best repos:</summary>
   <br/>
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=S-Box-HUD&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=S-Box-HUD&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <br/>
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&hide_border=false&title_color=adbac7&icon_color=FFE400&bg_color=22272&text_color=ffffff&border_color=adbac7" />
+  
 </details>
-
+<br/>
 
 <details>
   <summary>📊 GitHub Stats:</summary>         
