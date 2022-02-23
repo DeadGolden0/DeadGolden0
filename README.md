@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋</h1>
 
 <p align="center">
-  I'm a FullStack Developper and apprentice Cyber-Security Engineer
+  <h3>I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
   <br>
   <br>
   💻 Currently working on my Quiz WebApp 
@@ -28,7 +28,7 @@
    <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
    <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
    <img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px" />
-  <img alt="Boostrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap.svg" style="padding-right:10px" />
+  <img alt="Boostrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg" style="padding-right:10px" />
   
    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px" />
    <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px" />
