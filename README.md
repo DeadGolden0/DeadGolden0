@@ -24,11 +24,11 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <br/>
-<br/>
+
 ---
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>📊 GitHub Stats:</summary>
   <br/>
   <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
@@ -36,15 +36,22 @@
   <br/>
 </details>
 
-
-# 💻 My repos :
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=MyQuizz-App_WIP)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=MaliceRP)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=Discord_CommunityBot)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=FiveM_ShopMenu)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=S-Box-HUD)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&theme=city_lights&repo=DnRP-WIP)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>💻 My repos:</summary>
+  <br/>
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=S-Box-HUD&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <br/>
+</details>
 
 
 # 💼 My knowledge :
