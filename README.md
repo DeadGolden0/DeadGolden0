@@ -16,7 +16,7 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" />
+  [Linkdin](<a href="https://www.linkedin.com/in/yannis-ben/"><img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" /></a>)
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
