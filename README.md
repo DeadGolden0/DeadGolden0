@@ -45,5 +45,5 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=YannisBnb&bg_color=22272e&hide_border=false&color=orange&line=orange&point=orange" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YannisBnb&bg_color=22272e&hide_border=false&color=FFA500&line=FFA500&point=FFA500" width="100%"/>
 </p>
