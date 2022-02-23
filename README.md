@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
 <p align="center">
-  💻 Currently working on my Quiz WebApp 
+  💻 I’m currently working on my Quiz WebApp 
   <br>
   🌱 I’m currently learning Cyber-Security and Web FrameWorks
   <br>
@@ -69,22 +69,22 @@
 <h2 align="center">👨‍💻 My Best Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Algorithms&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DataStructures&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Turkce-Heceleme-CPP&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=CopyMoveForgeryDetectionWithDCT&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=cpp-openmp-needleman-wunsch&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=cpp-artificial-neural-networks&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=javascript-minesweeper&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=KTU-TraditionalComputerOlympics-2019&bg_color=22272e&border_color=61dafb&border_radius=10&icon_color=FFA500"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
