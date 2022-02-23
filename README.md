@@ -54,30 +54,3 @@
   <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <br/>
 </details>
-
-
-# 💼 My knowledge :
-
-* HTML
-* CSS
-  * Scss/Sass/Less
-  * Bootstrap
-* Javascript
-  * Angular 
-  * ReactJS
-  * VueJS
-  * jQuery
-  * NodeJS
-* PHP
-* Databases
-  * SQL
-  * SQLite
-  * MongoDB
-* C#
-  * Winforms
-  * .NET
-* C++
-* Lua
-  * ESX Framework
-  * GLua
-* Python
