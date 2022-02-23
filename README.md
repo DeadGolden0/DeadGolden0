@@ -1,6 +1,6 @@
 # Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋
 
-## I'm a FullStack Developper and apprentice Cyber-Security Engineer
+### I'm a FullStack Developper and apprentice Cyber-Security Engineer
 
 * 💻 Currently working on my Quiz WebApp 
 * 🌱 I’m currently learning Cyber-Security and Web FrameWorks
