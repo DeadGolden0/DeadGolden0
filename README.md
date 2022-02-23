@@ -12,7 +12,7 @@
 
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
@@ -30,7 +30,7 @@
 <details>
   <summary>💻 My Best repos:</summary>
   <br/>
-  [<img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" style="padding-bottom:10px;"/>][website]
+  [![website]][<img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MyQuizz-App_WIP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" style="padding-bottom:10px;"/>]
   
   <img align="left" alt="Dead's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
   
