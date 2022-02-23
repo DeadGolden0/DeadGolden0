@@ -16,7 +16,9 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  [Linkdin](<a href="https://www.linkedin.com/in/yannis-ben/"><img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" /></a>)
+  [![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/yannis-ben/)
+
+
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
@@ -86,3 +88,5 @@
 <h4 align="center">
   <a href="https://github.com/YannisBnb?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+[linkdin]: https://www.linkedin.com/in/yannis-ben/
