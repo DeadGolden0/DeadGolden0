@@ -30,9 +30,9 @@
 <details>
   <summary>📊 GitHub Stats:</summary>         
   <br/>
-  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=22272e&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff" />
   
-  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=22272e&text_color=ffffff&border_color=0c1a25" />
+  <img align="right" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide_border=true&title_color=ff652f&icon_color=adbac7&bg_color=22272e&text_color=ffffff" />
   <br/>
 </details>
 
