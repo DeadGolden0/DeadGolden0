@@ -1,12 +1,19 @@
 <h1 align="center">Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋</h1>
 
-### I'm a FullStack Developper and apprentice Cyber-Security Engineer
-
-* 💻 Currently working on my Quiz WebApp 
-* 🌱 I’m currently learning Cyber-Security and Web FrameWorks
-* 👯 I’m looking to collaborate with other content creators
-* 🥅 2022 Goals: Obtain my Cyber-Security degree
-* ⛩️ Fun fact: I love Japanese culture 
+<p align="center">
+  I'm a FullStack Developper and apprentice Cyber-Security Engineer
+  <br>
+  <br>
+  💻 Currently working on my Quiz WebApp 
+  <br>
+  🌱 I’m currently learning Cyber-Security and Web FrameWorks
+  <br>
+  👯 I’m looking to collaborate with other content creators
+  <br>
+  🥅 2022 Goals: Obtain my Cyber-Security degree
+  <br>
+  ⛩️ Fun fact: I love Japanese culture 
+</p>
 
 ### Find me here:
 
