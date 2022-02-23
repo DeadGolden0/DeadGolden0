@@ -1,4 +1,4 @@
-# Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋
+<h1 align="center">Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋</h1>
 
 ### I'm a FullStack Developper and apprentice Cyber-Security Engineer
 
