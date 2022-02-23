@@ -32,11 +32,11 @@
   <br/>
   <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
   
-  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide_border=false&title_color=ff652f&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
-  <br/>
-  <br/>
-</details>
+  <img align="left" alt="Dead's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide_border=false&title_color=adbac7&icon_color=adbac7&bg_color=22272e&text_color=ffffff&border_color=adbac7" />
 
+</details>
+<br/>
+<br/>
 <details>
   <summary>💻 My repos:</summary>
   <br/>
