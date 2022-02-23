@@ -1,3 +1,16 @@
+# Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋
+
+# I'm a FullStack Developper and apprentice Cyber-Security Engineer
+
+💻 Currently working on my Quiz WebApp 
+🌱 I’m currently learning Cyber-Security and Web FrameWorks
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Obtain my Cyber-Security degree
+⛩️ Fun fact: I love Japanese culture 
+
+### Find me:
+
+
 # 📊 My Github stats :
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
