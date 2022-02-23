@@ -8,7 +8,7 @@
 * 🥅 2022 Goals: Obtain my Cyber-Security degree
 * ⛩️ Fun fact: I love Japanese culture 
 
-### Find me:
+### Find me here:
 
 
 # 📊 My Github stats :
