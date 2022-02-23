@@ -15,8 +15,11 @@
   ⛩️ Fun fact: I love Japanese culture 
 </p>
 
-### Find me here:
-
+<h2 align="center">📜 Find me here: 📜</h2>
+<br>
+<p align="center">
+  
+</p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
 <br>
