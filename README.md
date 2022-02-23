@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋</h1>
 
 <p align="center">
-  <h3>I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
+  I'm a FullStack Developper and apprentice Cyber-Security Engineer
   <br>
   <br>
   💻 Currently working on my Quiz WebApp 
