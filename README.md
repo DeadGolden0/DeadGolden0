@@ -35,7 +35,7 @@
       <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=YannisBnb&date_format=M%20j%5B%2C%20Y%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&bg_color=22272e&text_color=ffffff&title_color=adbac7&icon_color=adbac7&border_color=adbac7&hide_border=false" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=adbac7&border_color=adbac7&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
