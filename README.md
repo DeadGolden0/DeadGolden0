@@ -16,16 +16,7 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  [![website](./img/globe-light.svg)](http://yannisbn.fr#gh-light-mode-only)
-  [![website](./img/globe-dark.svg)](http://yannisbn.fr#gh-dark-mode-only)
-  &nbsp;&nbsp;
-  [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yannis-ben#gh-light-mode-only)
-  [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only)
-  &nbsp;&nbsp;
-  [![website](./img/gmail.svg)](mailto:yannis.benbourahla2@gmail.com#gh-light-mode-only)
-  [![website](./img/gmail.svg)](mailto:yannis.benbourahla2@gmail.com#gh-dark-mode-only)
-
-
+  <a href="http://yannisbn.fr"><img alt="website" src="./img/globe-light.svg" style="padding-right:10px" /></a>
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
