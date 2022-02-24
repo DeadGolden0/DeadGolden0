@@ -17,15 +17,11 @@
 <br>
 <div align=center>
   <a target="_blank" href="http://yannisbn.fr">
-    <img style="padding:5px;" width="30px" alt="website" src="./img/world-wide-web.png" />
+    <img style="padding:5px;" width="30px" alt="website" src="./img/globe-grid.png" />
   </a>
 
   <a target="_blank" href="https://www.linkedin.com/in/yannis-ben">
     <img style="padding:5px;" width="30px" alt="linkedin" src="./img/linkedin.svg" />
-  </a>
-  
-  <a href="mailto:yannis.benbourahla2@gmail.com">
-    <img style="padding:5px;" width="30px" alt="email" src="./img/mail.png" />
   </a>
   
   <a target="_blank" href="https://github.com/YannisBnb#gh-light-mode-only">
@@ -33,6 +29,10 @@
   </a>
   <a target="_blank" href="https://github.com/YannisBnb#gh-dark-mode-only">
     <img style="padding:5px;" width="30px" alt="github" src="./img/github-dark.svg"/>
+  </a>
+  
+  <a href="mailto:yannis.benbourahla2@gmail.com">
+    <img style="padding:5px;" width="30px" alt="email" src="./img/mail.png" />
   </a>
 </div>
 
