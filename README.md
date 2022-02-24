@@ -19,7 +19,7 @@
   <a href="http://yannisbn.fr" style="padding:5px;">
     <img width="30px" alt="website" src="./img/globe-grid.png" />
   </a>
-  <hr>
+
   <a href="https://www.linkedin.com/in/yannis-ben" style="padding:5px;">
     <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
