@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://discord.gg/9Z3Y5rf">
-    <img style="padding:5px;" width="30px" alt="discord" src="./img/discord.png" />
+    <img style="padding:5px;" width="30px" alt="discord" src="./img/discord.svg" />
   </a>
   
   <a target="_blank" href="https://github.com/YannisBnb">
