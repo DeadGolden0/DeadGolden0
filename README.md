@@ -24,11 +24,8 @@
     <img style="padding:5px;" width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
   
-  <a target="_blank" href="https://github.com/YannisBnb#gh-light-mode-only">
-    <img style="padding:5px;" width="30px" alt="github" src="./img/github-light.svg" />
-  </a>
-  <a target="_blank" href="https://github.com/YannisBnb#gh-dark-mode-only">
-    <img style="padding:5px;" width="30px" alt="github" src="./img/github-dark.svg"/>
+  <a target="_blank" href="https://github.com/YannisBnb">
+    <img style="padding:5px;" width="30px" alt="github" src="./img/github.png" />
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com">
