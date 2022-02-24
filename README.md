@@ -17,24 +17,24 @@
 <br>
 <div align=center>
   <a target="_blank" href="http://yannisbn.fr#gh-light-mode-only">
-    <img alt="website" src="./img/globe-light.svg" />
+    <img width="30px" alt="website" src="./img/globe-light.svg" />
   </a>
   <a target="_blank" href="http://yannisbn.fr#gh-dark-mode-only">
-    <img alt="website" src="./img/globe-dark.svg" />
+    <img width="30px" alt="website" src="./img/globe-dark.svg" />
   </a>
 
   <a target="_blank" href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only">
-    <img alt="linkedin" src="./img/linkedin-light.svg" />
+    <img width="30px" alt="linkedin" src="./img/linkedin-light.svg" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only">
-    <img alt="linkedin" src="./img/linkedin-dark.svg"/>
+    <img width="30px" alt="linkedin" src="./img/linkedin-dark.svg"/>
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com#gh-light-mode-only">
-    <img width="26px" alt="mail" src="./img/gmail.svg" />
+    <img width="30px" alt="mail" src="./img/gmail.svg" />
   </a>
   <a href="mailto:yannis.benbourahla2@gmail.com#gh-dark-mode-only">
-    <img width="26px" alt="mail" src="./img/gmail.svg"/>
+    <img width="30px" alt="mail" src="./img/gmail.svg"/>
   </a>
 </div>
 
