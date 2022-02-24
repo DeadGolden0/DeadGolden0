@@ -25,7 +25,7 @@
   </a>
   
   <a target="_blank" href="https://github.com/YannisBnb">
-    <img style="padding:5px;" width="30px" alt="github" src="./img/github.png" />
+    <img style="padding:5px;" width="30px" alt="github" src="./img/github-color.png" />
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com">
