@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓 👋</h1>
+<h1 align="center">👋 Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓</h1>
 
 <h3 align="center">I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
 <p align="center">
@@ -16,11 +16,11 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  <a href="http://yannisbn.fr#gh-light-mode-only"><img alt="website" src="./img/globe-light.svg" style="padding-right:10px" /></a>
-  <a href="http://yannisbn.fr#gh-dark-mode-only"><img alt="website" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
+  <a href="http://yannisbn.fr#gh-light-mode-only"><img alt="website" src="./img/globe-light.svg" /></a>
+  <a href="http://yannisbn.fr#gh-dark-mode-only"><img alt="website" src="./img/globe-dark.svg" /></a>
   
-  <a href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only"><img alt="linkedin" src="./img/linkedin-light.svg" style="padding-right:10px" /></a>
-  <a href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only"><img alt="linkedin" src="./img/linkedin-dark.svg" style="padding-right:10px" /></a>
+  <a href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only"><img alt="linkedin" src="./img/linkedin-light.svg" /></a>
+  <a href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only"><img alt="linkedin" src="./img/linkedin-dark.svg"/></a>
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
@@ -90,5 +90,3 @@
 <h4 align="center">
   <a href="https://github.com/YannisBnb?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-[linkdin]: https://www.linkedin.com/in/yannis-ben/
