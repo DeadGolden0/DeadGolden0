@@ -19,9 +19,8 @@
   <a href="http://yannisbn.fr#gh-light-mode-only"><img alt="website" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
   <a href="http://yannisbn.fr#gh-dark-mode-only"><img alt="website" src="./img/globe-light.svg" style="padding-right:10px" /></a>
   
-  <a href="http://yannisbn.fr"><img alt="linkdin" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
-  
-  <a href="http://yannisbn.fr"><img alt="website" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
+  <a href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only"><img alt="linkdin" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
+  <a href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only"><img alt="linkdin" src="./img/globe-dark.svg" style="padding-right:10px" /></a>
 </p>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
