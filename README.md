@@ -24,12 +24,16 @@
     <img style="padding:5px;" width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
   
-  <a target="_blank" href="https://github.com/YannisBnb">
-    <img style="padding:5px;" width="30px" alt="github" src="./img/github-color.png" />
-  </a>
-  
   <a href="mailto:yannis.benbourahla2@gmail.com">
     <img style="padding:5px;" width="30px" alt="email" src="./img/email.png" />
+  </a>
+  
+  <a href="https://discord.gg/9Z3Y5rf">
+    <img style="padding:5px;" width="30px" alt="discord" src="./img/discord.png" />
+  </a>
+  
+  <a target="_blank" href="https://github.com/YannisBnb">
+    <img style="padding:5px;" width="30px" alt="github" src="./img/github-color.png" />
   </a>
 </div>
 
