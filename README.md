@@ -29,7 +29,7 @@
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com">
-    <img style="padding:5px;" width="30px" alt="email" src="./img/mail.png" />
+    <img style="padding:5px;" width="30px" alt="email" src="./img/email.png" />
   </a>
 </div>
 
