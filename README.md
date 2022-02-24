@@ -31,10 +31,10 @@
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com#gh-light-mode-only">
-    <img alt="mail" src="./img/gmail.svg" />
+    <img width="26px" alt="mail" src="./img/gmail.svg" />
   </a>
   <a href="mailto:yannis.benbourahla2@gmail.com#gh-dark-mode-only">
-    <img alt="mail" src="./img/gmail.svg"/>
+    <img width="26px" alt="mail" src="./img/gmail.svg"/>
   </a>
 </div>
 
