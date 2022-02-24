@@ -19,19 +19,19 @@
   <a href="http://yannisbn.fr" style="padding:5px;">
     <img width="30px" alt="website" src="./img/globe-grid.png" />
   </a>
-
+  <br>
   <a href="https://www.linkedin.com/in/yannis-ben" style="padding:5px;">
     <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
-  
+  <br>
   <a href="mailto:yannis.benbourahla2@gmail.com" style="padding:5px;">
     <img width="30px" alt="email" src="./img/email.png" />
   </a>
-  
+  <br>
   <a href="https://discord.gg/9Z3Y5rf" style="padding:5px;">
     <img width="30px" alt="discord" src="./img/discord.svg" />
   </a>
-  
+  <br>
   <a href="https://github.com/YannisBnb" style="padding:5px;">
     <img width="30px" alt="github" src="./img/github-color.png" />
   </a>
