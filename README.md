@@ -16,7 +16,14 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <p align="center">
-  [![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/yannis-ben/)
+  [![website](./img/globe-light.svg)](http://yannisbn.fr#gh-light-mode-only)
+  [![website](./img/globe-dark.svg)](http://yannisbn.fr#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yannis-ben#gh-light-mode-only)
+  [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/gmail.svg)](mailto:yannis.benbourahla2@gmail.com#gh-light-mode-only)
+  [![website](./img/gmail.svg)](mailto:yannis.benbourahla2@gmail.com#gh-dark-mode-only)
 
 
 </p>
