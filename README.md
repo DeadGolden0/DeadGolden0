@@ -13,7 +13,7 @@
   ⛩️ Fun fact: I love Japanese culture 
 </p>
 
-<h2 align="center">📜 Find me here: 📜</h2>
+<h2 align="center">📜 How to Reach Me 📜</h2>
 <br>
 <div align=center>
   <a href="http://yannisbn.fr" style="padding:5px;">
