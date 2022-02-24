@@ -98,7 +98,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/YannisBnb/S-Box-HUD" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=S-Box-HUD&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
-  <a align="right" href="https://github.com/YannisBnb/DnRP-WIP" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP-WIP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="right" href="https://github.com/YannisBnb/DnRP" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
