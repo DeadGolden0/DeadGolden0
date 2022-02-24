@@ -15,10 +15,19 @@
 
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
-<p align="center">
+<a align="center" href="http://yannisbn.fr#gh-light-mode-only">
   <img alt="website" src="./img/globe-light.svg" />
+</a>
+<a align="center" href="http://yannisbn.fr#gh-dark-mode-only">
+  <img alt="website" src="./img/globe-dark.svg" />
+</a>
+
+<a align="center" href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only">
+  <img alt="linkedin" src="./img/linkedin-light.svg" />
+</a>
+<a align="center" href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only">
   <img alt="linkedin" src="./img/linkedin-dark.svg"/>
-</p>
+</a>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
 <br>
