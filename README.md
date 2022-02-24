@@ -16,7 +16,7 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <div align=center>
-  <a href="http://yannisbn.fr" style="padding-right:50px;">
+  <a href="http://yannisbn.fr" style="margin-right:50px;">
     <img width="30px" alt="website" src="./img/globe-grid.png" />
   </a>
 
