@@ -16,25 +16,23 @@
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
 <div align=center>
-  <a target="_blank" href="http://yannisbn.fr#gh-light-mode-only">
-    <img width="30px" alt="website" src="./img/globe-light.svg" />
-  </a>
-  <a target="_blank" href="http://yannisbn.fr#gh-dark-mode-only">
-    <img width="30px" alt="website" src="./img/globe-dark.svg" />
+  <a target="_blank" href="http://yannisbn.fr">
+    <img width="30px" alt="website" src="./img/world-wide-web.png" />
   </a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/yannis-ben#gh-light-mode-only">
-    <img width="30px" alt="linkedin" src="./img/linkedin-light.svg" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/yannis-ben#gh-dark-mode-only">
-    <img width="30px" alt="linkedin" src="./img/linkedin-dark.svg"/>
+  <a target="_blank" href="https://www.linkedin.com/in/yannis-ben">
+    <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
   
-  <a href="mailto:yannis.benbourahla2@gmail.com#gh-light-mode-only">
-    <img width="30px" alt="mail" src="./img/gmail.svg" />
+  <a href="mailto:yannis.benbourahla2@gmail.com">
+    <img width="30px" alt="email" src="./img/email.png" />
   </a>
-  <a href="mailto:yannis.benbourahla2@gmail.com#gh-dark-mode-only">
-    <img width="30px" alt="mail" src="./img/gmail.svg"/>
+  
+  <a target="_blank" href="https://github.com/YannisBnb#gh-light-mode-only">
+    <img width="30px" alt="github" src="./img/github-light.svg" />
+  </a>
+  <a target="_blank" href="https://github.com/YannisBnb#gh-dark-mode-only">
+    <img width="30px" alt="github" src="./img/github-dark.svg"/>
   </a>
 </div>
 
