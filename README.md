@@ -15,25 +15,25 @@
 
 <h2 align="center">📜 Find me here: 📜</h2>
 <br>
-<div align=center>
-  <a target="_blank" href="http://yannisbn.fr">
-    <img style="padding:5px;" width="30px" alt="website" src="./img/globe-grid.png" />
+<div align=center style="padding:5px;">
+  <a href="http://yannisbn.fr">
+    <img width="30px" alt="website" src="./img/globe-grid.png" />
   </a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/yannis-ben">
-    <img style="padding:5px;" width="30px" alt="linkedin" src="./img/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/yannis-ben">
+    <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
   </a>
   
   <a href="mailto:yannis.benbourahla2@gmail.com">
-    <img style="padding:5px;" width="30px" alt="email" src="./img/email.png" />
+    <img width="30px" alt="email" src="./img/email.png" />
   </a>
   
   <a href="https://discord.gg/9Z3Y5rf">
-    <img style="padding:5px;" width="30px" alt="discord" src="./img/discord.svg" />
+    <img width="30px" alt="discord" src="./img/discord.svg" />
   </a>
   
-  <a target="_blank" href="https://github.com/YannisBnb">
-    <img style="padding:5px;" width="30px" alt="github" src="./img/github-color.png" />
+  <a href="https://github.com/YannisBnb">
+    <img width="30px" alt="github" src="./img/github-color.png" />
   </a>
 </div>
 
