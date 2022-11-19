@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Yannis - aka 🍹 𝓓𝓔𝓐𝓓</h1>
+<h1 align="center">👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
 <h3 align="center">I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
 <p align="center">
