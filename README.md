@@ -63,16 +63,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=YannisBnb&date_format=j%2Fn%5B%2FY%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
+      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=DeadGolden0&date_format=j%2Fn%5B%2FY%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=YannisBnb&show_icons=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=adbac7&border_color=adbac7&hide_border=false" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeadGolden0&show_icons=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=adbac7&border_color=adbac7&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisBnb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=adbac7&text_color=adbac7&icon_color=61dafb&bg_color=22272e&langs_count=8&layout=compact&border_color=adbac7&hide_border=false" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadGolden0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=adbac7&text_color=adbac7&icon_color=61dafb&bg_color=22272e&langs_count=8&layout=compact&border_color=adbac7&hide_border=false" />
     </a>
   </div>
   <br>
@@ -83,18 +83,18 @@
 <h2 align="center">👨‍💻 My Best Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/YannisBnb/FiveM-RadialMenu" title="FiveM - RadialMenu"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM-RadialMenu&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
-  <a align="right" href="https://github.com/YannisBnb/MaliceRP" title="Website MaliceRP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="left" href="https://github.com/DeadGolden0/FiveM-RadialMenu" title="FiveM - RadialMenu"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM-RadialMenu&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="right" href="https://github.com/DeadGolden0/MaliceRP" title="Website MaliceRP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=MaliceRP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/YannisBnb/Discord_CommunityBot" title="Discord Bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
-  <a align="right" href="https://github.com/YannisBnb/FiveM_ShopMenu" title="FiveM - ShopMenu"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="left" href="https://github.com/DeadGolden0/Discord_CommunityBot" title="Discord Bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=Discord_CommunityBot&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="right" href="https://github.com/DeadGolden0/FiveM_ShopMenu" title="FiveM - ShopMenu"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=FiveM_ShopMenu&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/YannisBnb/SBox-HUD" title="SBox - HUD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=SBox-HUD&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
-  <a align="right" href="https://github.com/YannisBnb/DnRP" title="SBox - Gamemode"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="left" href="https://github.com/DeadGolden0/SBox-HUD" title="SBox - HUD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=SBox-HUD&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
+  <a align="right" href="https://github.com/DeadGolden0/DnRP" title="SBox - Gamemode"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YannisBnb&repo=DnRP&bg_color=22272e&border_radius=10&icon_color=FFA500&border_color=FFA500&title_color=FFA500&text_color=adbac7"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
