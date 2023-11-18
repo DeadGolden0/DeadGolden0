@@ -8,7 +8,7 @@
   <br>
   👯 I’m looking to collaborate with other content creators
   <br>
-  🥅 2022 Goals: Obtain my Cyber-Security degree
+  🥅 2025 Goals: Obtain my Cyber-Security degree
   <br>
   ⛩️ Fun fact: I love Japanese culture 
 </p>
@@ -16,15 +16,15 @@
 <h2 align="center">📜 How to Reach Me 📜</h2>
 <br>
 <div align=center>
-  <a href="http://yannisbn.fr" style="padding:5px;">
+  <!--<a href="http://yannisbn.fr" style="padding:5px;">
     <img width="30px" alt="website" src="./img/globe-grid.png" />
-  </a>
+  </a>-->
 
-  <a href="https://www.linkedin.com/in/yannis-ben/" style="padding:5px;">
+  <!--<a href="https://www.linkedin.com/in/yannis-ben/" style="padding:5px;">
     <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
-  </a>
+  </a>-->>
 
-  <a href="mailto:yannis.benbourahla2@gmail.com" style="padding:5px;">
+  <a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
     <img width="30px" alt="email" src="./img/email.png" />
   </a>
 
