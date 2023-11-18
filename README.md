@@ -28,8 +28,6 @@
     <img width="30px" alt="email" src="./img/email.png" />
   </a>
 
-  <a></a>
-
   <a href="https://github.com/DeadGolden0" style="padding:5px;">
     <img width="30px" alt="github" src="./img/github-color.png" />
   </a>
