@@ -22,11 +22,13 @@
 
   <!--<a href="https://www.linkedin.com/in/yannis-ben/" style="padding:5px;">
     <img width="30px" alt="linkedin" src="./img/linkedin.svg" />
-  </a>-->>
+  </a>-->
 
   <a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
     <img width="30px" alt="email" src="./img/email.png" />
   </a>
+
+  <br>
 
   <a href="https://github.com/DeadGolden0" style="padding:5px;">
     <img width="30px" alt="github" src="./img/github-color.png" />
