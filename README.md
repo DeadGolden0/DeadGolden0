@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
 <p align="center">
-  💻 I’m currently working on my Quiz WebApp 
+  💻 I’m currently working on my Quiz WebApp & some Gmod addons 
   <br>
   🌱 I’m currently learning Cyber-Security and Web FrameWorks
   <br>
