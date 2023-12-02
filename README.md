@@ -129,16 +129,6 @@
 </table>
 
 
-<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
-<br>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="[http://github-readme-streak-stats.herokuapp.com?user=DeadGolden0](https://github-profile-trophy.vercel.app/?username=DeadGolden0)&date_format=j%2Fn%5B%2FY%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
-</a>
-
-
-
-
-
 <!--<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
 <br>
 <p align=center>
