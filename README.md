@@ -124,6 +124,11 @@
 </table>
 
 
+<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeadGolden0)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
