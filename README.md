@@ -15,19 +15,19 @@
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
 </p>
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-
 <h2>📜 How to Reach Me 📜</h2>
 <br>
 <div>
-  <a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
-    <img width="30px" alt="email" src="./img/email.png" />
-  </a>
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
 
-  <a href="https://github.com/DeadGolden0" style="padding:5px;">
+  
+  <!--<a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
+    <img width="30px" alt="email" src="./img/email.png" />
+  </a>-->
+
+  <!--<a href="https://github.com/DeadGolden0" style="padding:5px;">
     <img width="30px" alt="github" src="./img/github-color.png" />
-  </a>
+  </a>-->
 </div>
 
 <h2>🔥 Languages and Tools 🔥</h2>
