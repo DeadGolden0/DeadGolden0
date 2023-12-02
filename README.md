@@ -31,9 +31,10 @@
 <br>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<table>
+  <tr>
     <!-- Programming Languages -->
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <td>
         <strong>Programming Languages</strong><br>
         <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
         <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -42,9 +43,9 @@
         <img alt="Php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
         <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
         <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
-    </div>
+    </td>
     <!-- Frontend Development -->
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <td>
       <strong>Frontend Development</strong><br>
       <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
       <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -53,14 +54,15 @@
       <img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="padding-right:10px;" />
       <img alt="VueJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
       <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-    </div>
+    </td>
     <!-- Backend Development -->
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <td>
       <strong>Backend Development</strong><br>
       <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
       <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 
