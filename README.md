@@ -30,7 +30,7 @@
 <h2>🔥 Languages and Tools 🔥</h2>
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="width: 100%; border=none;" align="center">
   <!-- Premiere Ligne -->
   <tr>
     <!-- Programming Languages -->
