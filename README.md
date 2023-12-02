@@ -35,7 +35,8 @@
   <tr>
     <!-- Programming Languages -->
     <td style="padding: 10px;">
-        <strong>Programming Languages</strong><br>
+        <strong>Programming Languages</strong>
+        <br><br>
         <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
         <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
         <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
