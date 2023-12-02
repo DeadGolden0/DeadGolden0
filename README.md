@@ -2,17 +2,17 @@
 
 <h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
-<h3>I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
+<h3>I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
 <p>
-  💻 I’m currently working on my Bannerlord II Mods & some Gmod addons
+  💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br>
-  🌱 I’m currently learning Cyber-Security
+  🌱 I’m currently learning <strongCyber-Security</strong>
   <br>
-  👯 I’m looking to collaborate with other content creators
+  👯 I’m looking to collaborate with other <strongcontent creators</strong>
   <br>
-  🥅 2025 Goals: Obtain my Cyber-Security degree
+  🥅 2025 Goals: Obtain my <strongCyber-Security degree</strong>
   <br>
-  ⛩️ Fun fact: I love Japanese culture 
+  ⛩️ Fun fact: I love <strongJapanese culture </strong>
 </p>
 
 <h2>📜 How to Reach Me 📜</h2>
