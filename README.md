@@ -18,10 +18,9 @@
 <h2>📜 How to Reach Me 📜</h2>
 <br>
 <div>
-  <!-- https://discord.gg/w92W7XR9Yg -->
   
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-  [Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadgolden9122@gmail.com)
 
   
   <!--<a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
