@@ -6,7 +6,7 @@
 <p>
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br>
-  🌱 I’m currently learning <strong></strong>Cyber-Security</strong>
+  🌱 I’m currently learning <strong></strong>Cyber-Security stuffs</strong>
   <br>
   👯 I’m looking to collaborate with other <strong>content creators</strong>
   <br>
@@ -34,7 +34,7 @@
   <!-- Premiere Ligne -->
   <tr>
     <!-- Programming Languages -->
-    <td style="padding: 10px;">
+    <td style="padding-right: 70px;">
         <strong>Programming Languages</strong>
         <br><br>
         <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -90,7 +90,7 @@
     <td style="padding: 10px;">
       <strong>Devops</strong>
       <br><br>
-      <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
+      <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
       <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
       <img alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="padding-right:10px;" />
    </td>
