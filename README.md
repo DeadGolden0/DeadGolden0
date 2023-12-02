@@ -27,7 +27,7 @@
 
 <br>
 <h2></h2>
-<h3>🔥 Languages and Tools 🔥</h3>
+<h3 align="center" fontsize="42px">🔥 Languages and Tools 🔥</h3>
 <h2></h2>
 <br>
 
