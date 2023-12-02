@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 
-<h1 padding-left="10px">👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
+<h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
-<h3 padding-left="10px">I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
-<p padding-left="10px">
+<h3>I'm a FullStack Developper and apprentice Cyber-Security Engineer</h3>
+<p>
   💻 I’m currently working on my Bannerlord II Mods & some Gmod addons
   <br>
   🌱 I’m currently learning Cyber-Security
@@ -15,9 +15,9 @@
   ⛩️ Fun fact: I love Japanese culture 
 </p>
 
-<h2 padding-left="10px">📜 How to Reach Me 📜</h2>
+<h2>📜 How to Reach Me 📜</h2>
 <br>
-<div padding-left="10px">
+<div>
   <a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
     <img width="30px" alt="email" src="./img/email.png" />
   </a>
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h2 padding-left="10px">🔥 Languages and Tools 🔥</h2>
+<h2>🔥 Languages and Tools 🔥</h2>
 <br>
 <!-- Programming Languages -->
 <p>
@@ -40,9 +40,9 @@
    <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
    <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
 </p>
-<br>
+
 <!-- Frontend Development -->
-<p>
+<p style="padding-left:30px;">
    <strong>Frontend Development</strong><br>
    <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
    <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -52,9 +52,9 @@
    <img alt="VueJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
    <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </p>
-<br>
+
 <!-- Backend Development -->
-<p>
+<p style="padding-left:30px;">
    <strong>Backend Development</strong><br>
    <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
    <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
