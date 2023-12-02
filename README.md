@@ -17,11 +17,12 @@
 
 <h2>📜 How to Reach Me 📜</h2>
 <br>
-<div>
+<div padding-lef="10px">
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadgolden9122@gmail.com)
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DeAdGoLdEn/)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/DeadGolden0)
 
   
   <!--<a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
@@ -151,6 +152,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=DeadGolden0&bg_color=22272e&hide_border=false&color=adbac7&line=FFA500&point=FFA500" width="100%"/>
 </p>-->
 
-<h4 align="center">
+<!--<h4 align="center">
   <a href="https://github.com/DeadGolden0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4>-->
