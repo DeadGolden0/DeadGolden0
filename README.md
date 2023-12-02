@@ -25,10 +25,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeadGolden0)
 </div>
 
-<br>
-<h2></h2>
-<h3 align="center" fontsize="42px">🔥 Languages and Tools 🔥</h3>
-<h2></h2>
+<h2 align="center">🔥 Languages and Tools 🔥</h2>
 <br>
 
 <table>
