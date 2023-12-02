@@ -13,7 +13,6 @@
   🥅 2025 Goals: Obtain my <strong>Cyber-Security degree</strong>
   <br><br>
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
-  <br><br>
 </p>
 
 <!--<h2>📜 How to Reach Me 📜</h2>-->
