@@ -30,7 +30,7 @@
 <h2>🔥 Languages and Tools 🔥</h2>
 <br>
 
-<table style="width: 100%; border=none;" align="center">
+<table>
   <!-- Premiere Ligne -->
   <tr>
     <!-- Programming Languages -->
@@ -72,7 +72,7 @@
     <td style="padding: 10px;">
       <strong>Mobile App Development</strong>
       <br><br>
-      <img alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
+      <img alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
       <img alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="padding-right:10px;" />
       <img alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="padding-right:10px;" />
       <!-- <img alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /> -->
