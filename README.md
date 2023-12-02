@@ -30,11 +30,11 @@
 <h2>🔥 Languages and Tools 🔥</h2>
 <br>
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <!-- Premiere Ligne -->
   <tr>
     <!-- Programming Languages -->
-    <td>
+    <td style="padding: 10px;">
         <strong>Programming Languages</strong><br>
         <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
         <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -45,7 +45,7 @@
         <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
     </td>
     <!-- Frontend Development -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Frontend Development</strong><br>
       <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
       <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -56,7 +56,7 @@
       <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
     </td>
     <!-- Backend Development -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Backend Development</strong><br>
       <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
       <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
@@ -66,7 +66,7 @@
   <!-- Deuxieme Ligne -->
   <tr>
     <!-- Mobile App Development -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Mobile App Development</strong><br>
       <img alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
       <img alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="padding-right:10px;" />
@@ -74,7 +74,7 @@
       <!-- <img alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /> -->
     </td>
     <!-- Database -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Database</strong><br>
       <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
       <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -82,7 +82,7 @@
       <img alt="SQLite" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
     </td>
     <!-- Devops -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Devops</strong><br>
       <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
       <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
@@ -93,17 +93,17 @@
   <!-- Troisieme Ligne -->
   <tr>
     <!-- Backend as a Service(BaaS) -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Backend as a Service(BaaS)</strong><br>
       <img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />
     </td>
     <!-- Game Engines -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Game Engines</strong><br>
       <img alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="padding-right:10px;" />
     </td>
     <!-- Tools -->
-    <td>
+    <td style="padding: 10px;">
       <strong>Tools</strong><br>
       <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
       <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
