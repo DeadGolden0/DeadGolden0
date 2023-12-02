@@ -42,6 +42,16 @@
         <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
         <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
     </div>
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+        <strong>Programming Languages</strong><br>
+        <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
+        <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+        <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+        <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+        <img alt="Php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+        <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+        <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
+    </div>
 </div>
 
 
