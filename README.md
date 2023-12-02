@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 
-<h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
+<h1 align="center">👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
-<h3>I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
-<p>
+<h3 align="center">I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
+<p align="center">
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br>
   🌱 I’m currently learning <strong></strong>Cyber-Security stuffs</strong>
@@ -15,9 +15,9 @@
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
 </p>
 
-<h2>📜 How to Reach Me 📜</h2>
-<br>
-<div padding-lef="10px">
+<!--<h2>📜 How to Reach Me 📜</h2>-->
+
+<div align="center">
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadgolden9122@gmail.com)
