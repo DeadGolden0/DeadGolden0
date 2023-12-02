@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 
-<h1 align="center">👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
+<h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
-<h3 align="center">I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
-<p align="center">
+<h3>I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
+<p>
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br><br>
   🌱 I’m currently learning <strong></strong>Cyber-Security stuffs</strong>
@@ -17,7 +17,7 @@
 
 <!--<h2>📜 How to Reach Me 📜</h2>-->
 
-<div align="center">
+<div>
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadgolden9122@gmail.com)
@@ -25,6 +25,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeadGolden0)
 </div>
 
+<br>
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
 <br>
 
