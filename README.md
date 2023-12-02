@@ -30,32 +30,8 @@
 <h2>🔥 Languages and Tools 🔥</h2>
 <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <!-- Programming Languages -->
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <strong>Programming Languages</strong><br>
-        <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
-        <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-        <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-        <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-        <img alt="Php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-        <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-        <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
-    </div>
-  <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <strong>Programming Languages</strong><br>
-        <img alt="c" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
-        <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-        <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-        <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-        <img alt="Php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-        <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-        <img alt="LUA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="padding-right:10px;" />
-    </div>
-</div>
-
-
-<table>
+<table border="0">
+  <!-- Premiere Ligne -->
   <tr>
     <!-- Programming Languages -->
     <td>
@@ -86,66 +62,61 @@
       <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
     </td>
   </tr>
+
+  <!-- Deuxieme Ligne -->
+  <tr>
+    <!-- Mobile App Development -->
+    <td>
+      <strong>Mobile App Development</strong><br>
+      <img alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
+      <img alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="padding-right:10px;" />
+      <img alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="padding-right:10px;" />
+      <!-- <img alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /> -->
+    </td>
+    <!-- Database -->
+    <td>
+      <strong>Database</strong><br>
+      <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+      <img alt="MariaDB" width="30px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="padding-right:10px;" />
+      <img alt="SQLite" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
+    </td>
+    <!-- Devops -->
+    <td>
+      <strong>Devops</strong><br>
+      <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
+      <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+      <img alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="padding-right:10px;" />
+   </td>
+  </tr>
+
+  <!-- Troisieme Ligne -->
+  <tr>
+    <!-- Backend as a Service(BaaS) -->
+    <td>
+      <strong>Backend as a Service(BaaS)</strong><br>
+      <img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />
+    </td>
+    <!-- Game Engines -->
+    <td>
+      <strong>Game Engines</strong><br>
+      <img alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="padding-right:10px;" />
+    </td>
+    <!-- Tools -->
+    <td>
+      <strong>Tools</strong><br>
+      <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+      <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+      <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+      <img alt="FileZilla" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="padding-right:10px;" />
+      <img alt="Arduino" width="30px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:10px;" />
+   </td>
+  </tr>
 </table>
 
 
 
 
-
-<!-- Backend Development -->
-<p>
-   <strong>Backend Development</strong><br>
-   <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-   <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
-</p>
-<br>
-<!-- Mobile App Development -->
-<p>
-   <strong>Mobile App Development</strong><br>
-   <img alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
-   <img alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="padding-right:10px;" />
-   <img alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="padding-right:10px;" />
-   <!-- <img alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /> -->
-</p>
-<br>
-<!-- Database -->
-<p>
-   <strong>Database</strong><br>
-   <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-   <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-   <img alt="MariaDB" width="30px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="padding-right:10px;" />
-   <img alt="SQLite" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
-</p>
-<br>
-<!-- Devops -->
-<p>
-   <strong>Devops</strong><br>
-   <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
-   <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
-   <img alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="padding-right:10px;" />
-</p>
-<br>
-<!-- Backend as a Service(BaaS) -->
-<p>
-   <strong>Backend as a Service(BaaS)</strong><br>
-   <img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />
-</p>
-<br>
-<!-- Game Engines -->
-<p>
-   <strong>Game Engines</strong><br>
-   <img alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="padding-right:10px;" />
-</p>
-<br>
-<!-- Tools -->
-<p>
-   <strong>Tools</strong><br>
-   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-   <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-   <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-   <img alt="FileZilla" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="padding-right:10px;" />
-   <img alt="Arduino" width="30px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:10px;" />
-</p>
 
 <h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
 <br>
