@@ -15,6 +15,9 @@
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
 </p>
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
 <h2>📜 How to Reach Me 📜</h2>
 <br>
 <div>
