@@ -127,7 +127,7 @@
 
 
 
-<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
+<!--<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -146,7 +146,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=DeadGolden0&bg_color=22272e&hide_border=false&color=adbac7&line=FFA500&point=FFA500" width="100%"/>
-</p>
+</p>-->
 
 <h4 align="center">
   <a href="https://github.com/DeadGolden0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
