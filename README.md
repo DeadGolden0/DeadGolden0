@@ -18,7 +18,8 @@
 <h2>📜 How to Reach Me 📜</h2>
 <br>
 <div>
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
+  <!-- https://discord.gg/w92W7XR9Yg -->
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
   
   <!--<a href="mailto:deadgolden9122@gmail.com" style="padding:5px;">
@@ -132,8 +133,6 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="left" width=390 src="[http://github-readme-streak-stats.herokuapp.com?user=DeadGolden0](https://github-profile-trophy.vercel.app/?username=DeadGolden0)&date_format=j%2Fn%5B%2FY%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
 </a>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeadGolden0)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
