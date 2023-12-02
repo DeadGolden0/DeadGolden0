@@ -5,14 +5,15 @@
 <h3 align="center">I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
 <p align="center">
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
-  <br>
+  <br><br>
   🌱 I’m currently learning <strong></strong>Cyber-Security stuffs</strong>
-  <br>
+  <br><br>
   👯 I’m looking to collaborate with other <strong>content creators</strong>
-  <br>
+  <br><br>
   🥅 2025 Goals: Obtain my <strong>Cyber-Security degree</strong>
-  <br>
+  <br><br>
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
+  <br><br>
 </p>
 
 <!--<h2>📜 How to Reach Me 📜</h2>-->
