@@ -123,8 +123,12 @@
 </table>
 
 
-<!--<h2 padding-left="10px">⚡ My GitHub Stats ⚡</h2>
+<h2>⚡ My GitHub Stats ⚡</h2>
 <br>
+[!https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0]
+
+
+<!--<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
