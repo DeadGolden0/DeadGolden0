@@ -126,8 +126,17 @@
 <h2>⚡ My GitHub Stats ⚡</h2>
 <br>
 
-  [![DiscordStats](https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0&theme=github)]()
-  [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
+  [![DiscordStats](https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0)]()
+  [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=dark)]()
+   [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=radical)]()
+    [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=merko)]()
+     [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=gruvbox)]()
+      [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=tokyonight)]()
+       [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
+        [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=cobalt)]()
+        [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=synthwave)]()
+        [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=highcontrast)]()
+        [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=dracula)]()
 
 
 <!--<br>
