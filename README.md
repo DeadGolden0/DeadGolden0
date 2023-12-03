@@ -125,7 +125,8 @@
 
 <h2>⚡ My GitHub Stats ⚡</h2>
 <br>
-https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0
+
+[![DiscordStats]https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0]()
 
 
 <!--<br>
