@@ -91,7 +91,7 @@
       <br><br>
       <img alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />
       <img alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-      <img alt="Bash" width="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="padding-right:10px;" />
+      <img alt="Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />
    </td>
   </tr>
 
