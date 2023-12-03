@@ -2,7 +2,7 @@
 
 <h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>
 
-<h3>I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
+<h3>I'm a <strong>Full Stack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
 <p>
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br><br>
