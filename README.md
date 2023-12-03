@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 
 <!--<h1>👋 Hi there, I'm 🍹 𝓓𝓔𝓐𝓓</h1>-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+%F0%9F%8D%B9+%F0%9D%93%93%F0%9D%93%94%F0%9D%93%90%F0%9D%93%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=32&pause=1000&color=ACBAC6&vCenter=true&random=false&width=470&lines=%F0%9F%91%8B+Hi+there%2C+I'm+%F0%9F%8D%B9+%F0%9D%93%93%F0%9D%93%94%F0%9D%93%90%F0%9D%93%93;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+FullStack+developper)](https://git.io/typing-svg)
 <h1></h1>
 
 <h3>I'm a <strong>FullStack Developper</strong> and <strong>apprentice Cyber-Security Engineer</strong></h3>
