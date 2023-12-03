@@ -127,7 +127,7 @@
 <br>
 
   [![DiscordStats](https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0&theme=github)]()
-  [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=dracula)]()
+  [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
 
 
 <!--<br>
