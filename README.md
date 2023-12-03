@@ -130,6 +130,10 @@
   [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
 
 
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=100&section=footer"/>
+
+
 <!--<br>
 <p align=center>
   <div align=center>
