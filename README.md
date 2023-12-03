@@ -126,34 +126,13 @@
 <h2>⚡ My GitHub Stats ⚡</h2>
 <br>
 
-  [![DiscordStats](https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0&theme=github-compact)]()
-  [![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
+<!-- GitHub Activity Graph -->
+[![DiscordStats](https://github-readme-activity-graph.vercel.app/graph?username=DeadGolden0&theme=github-compact)]()
+
+<!-- GitHub Activity Trophy -->
+[![DiscordStats2](https://github-profile-trophy.vercel.app/?username=DeadGolden0&theme=onedark)]()
+
+<!-- Wave Image -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e745e5&height=100&section=footer"/>
 
 
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer"/>
-
-
-<!--<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=DeadGolden0&date_format=j%2Fn%5B%2FY%5D&background=22272E&border=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&currStreakLabel=ADBAC7&stroke=ADBAC7&dates=ADBAC7&currStreakNum=ADBAC7" alt="Dead Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeadGolden0&show_icons=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=adbac7&border_color=adbac7&hide_border=false" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div padding-left="10px">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadGolden0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=adbac7&text_color=adbac7&icon_color=61dafb&bg_color=22272e&langs_count=8&layout=compact&border_color=adbac7&hide_border=false" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=DeadGolden0&bg_color=22272e&hide_border=false&color=adbac7&line=FFA500&point=FFA500" width="100%"/>
-</p>-->
-
-<!--<h4 align="center">
-  <a href="https://github.com/DeadGolden0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>-->
