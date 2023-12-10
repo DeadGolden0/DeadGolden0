@@ -6,11 +6,11 @@
 <p>
   💻 I’m currently working on my <strong>Bannerlord II Mods</strong> & <strong>some Gmod addons</strong>
   <br><br>
-  🌱 I’m currently learning <strong></strong>Cybersecurity topics</strong>
+  🌱 I’m currently learning <strong>Cybersecurity topics</strong>
   <br><br>
   👯 I’m looking to collaborate with other <strong>content creators</strong>
   <br><br>
-  🥅 2025 Goals: Obtain my Cybersecurity degree</strong>
+  🥅 2025 Goals: Obtain my <strong>Cybersecurity degree</strong>
   <br><br>
   ⛩️ Fun fact: I love <strong>Japanese culture </strong>
 </p>
