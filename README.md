@@ -42,7 +42,7 @@
         <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
         <img alt="Php" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
         <img alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-        <img alt="LUA" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;" />
+        <img alt="LUA" width="35px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-plain.svg" style="padding-right:10px;" />
     </td>
     <!-- Frontend Development -->
     <td style="padding: 10px;">
