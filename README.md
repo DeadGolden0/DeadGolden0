@@ -60,7 +60,7 @@
     <td style="padding: 10px;">
       <strong>Backend Development</strong>
       <br><br>
-      <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
+      <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
       <img alt="Nginx" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
     </td>
   </tr>
