@@ -102,6 +102,7 @@
       <strong>Backend as a Service(BaaS)</strong>
       <br><br>
       <img alt="Heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />
+      <img alt="Supabase" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
     </td>
     <!-- Game Engines -->
     <td style="padding: 10px;">
